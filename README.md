@@ -1,5 +1,5 @@
 # BTP200 Workshops
-## [IPC144/BTP100 Review Session for OOP244/BTP200 Students](https://github.com/Seneca-244200/OOP244NABC-Notes#ipc144btp100-review-session-for-oop244btp200-students)
+## [IPC144/BTP100 Review Session for OOP244/BTP200 Students recording](https://recordings.rna2.blindsidenetworks.com/senecacollege/f2f6a54f9f645d3f6c67dcc4a92dcade141b9b99-1620913137318/capture/)
 
 # Computer preparation and Getting Workshop files
 
